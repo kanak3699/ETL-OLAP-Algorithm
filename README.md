@@ -1,9 +1,9 @@
 # ETL-OLAP-Algorithm
 
 ## Overview
-A data warehouse is a subject-oriented, integrated, time-variant, and nonvolatile
-collection of data in support of management’s decision-making. The following figure illustrates
-the process of constructing and using a data warehouse.
+A data warehouse is a subject-oriented, integrated, time-variant, and nonvolatile collection of data in support of management’s decision-making. The following figure illustrates the process of constructing and using a data warehouse.
+
+![](Data_Warehousing.png)
 
 ## ETL Defination
 The process of extracting data from source systems and bringing it into the data
